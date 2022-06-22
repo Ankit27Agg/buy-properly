@@ -85,7 +85,7 @@ function Home() {
             </div>
             <div className='ribbon-body'>
                 <div className='ribbon'>
-                    <a href='/'>See Source Code</a>
+                    <a href='https://github.com/Ankit27Agg/buy-properly'>See Source Code</a>
                 </div>
             </div>
             </>
@@ -154,7 +154,7 @@ function Home() {
                 </div>
                 <div className='ribbon-body'>
                 <div className='ribbon'>
-                    <a href='/'>See Source Code</a>
+                    <a href='https://github.com/Ankit27Agg/buy-properly'>See Source Code</a>
                 </div>
             </div>
             </>
